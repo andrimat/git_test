@@ -1,0 +1,1 @@
+This is andrimat`s first git project!
